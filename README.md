@@ -2,6 +2,8 @@
 
 A GUI application for viewing and editing label points in images with corresponding JSON files.
 
+![GUI Screenshot](media/GUI.png)
+
 ## Features
 
 - **Folder Loading**: Select a folder containing image and JSON file pairs
