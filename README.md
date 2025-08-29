@@ -1,4 +1,4 @@
-# Label Point Editor
+# Label Point Editor (for LableMe point label only)
 
 A GUI application for viewing and editing label points in images with corresponding JSON files.
 
